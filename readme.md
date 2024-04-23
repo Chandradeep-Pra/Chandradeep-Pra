@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://chandradeep-pra.github.io/portfolio/](https://chandradeep-pra.github.io/portfolio/)
 
-- 💬 Ask me about **DSA , Javascript & ReactJs**
+- 💬 Ask me about **DSA , Javascript , ReactJs and Trekking**
 
 - 📫 How to reach me **chandradeepp611@gmail.com**
 
