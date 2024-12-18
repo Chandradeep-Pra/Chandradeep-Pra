@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif](https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif)">
 <h1 align="center">Hi 👋, I'm Chandradeep Prasad</h1>
 <h3 align="center">I'm from India 🇮🇳</h3>
-<h3 align="center">I like to think , solve problems and yes a Fullstack Developer</h3>
+<h3 align="center">I like to think , solve problems and I am a Fullstack Developer</h3>
 
 - 🔭 I’m currently working on [Interview Prep Ally](https://github.com/Chandradeep-Pra/Interview-Question-Generator)
 
