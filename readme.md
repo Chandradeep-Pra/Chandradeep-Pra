@@ -4,17 +4,17 @@
 <h3 align="center">I'm from India 🇮🇳</h3>
 <h3 align="center">I like to think , solve problems and I am a Fullstack Developer</h3>
 
-- 🔭 I’m currently working on [Interview Prep Ally](https://github.com/Chandradeep-Pra/Interview-Question-Generator)
+- 🔭 I’m currently working on [Task Track - Tool to help PMs]([https://github.com/Chandradeep-Pra/Interview-Question-Generator](https://github.com/Chandradeep-Pra/task-train))
 
-- 🌱 I’m currently learning **ReactJS , NextJS**
+- 🌱 I’m currently learning **NextJS , GenAI**
 
-- 👨‍💻 All of my projects are available at [https://chandradeep-pra.github.io/portfolio/](https://chandradeep-pra.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Github Repos](https://github.com/Chandradeep-pra)
 
 - 💬 Ask me about **DSA , Javascript , ReactJs and Trekking**
 
 - 📫 How to reach me **chandradeepp611@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Td0cTd5BMqRIPFa6sC0RnlnePxeQQbLB/view?usp=drive_link](https://drive.google.com/file/d/1Td0cTd5BMqRIPFa6sC0RnlnePxeQQbLB/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DLH63b2ySDVhcYaQveNIKdi90m3mE1mD/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
