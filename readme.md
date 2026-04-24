@@ -64,9 +64,6 @@ Frontend-focused Full Stack Engineer building **modern dashboards, workflow syst
 # 🐍 Contribution Snake Animation
 
 ![snake gif](https://github.com/Chandradeep-Pra/Chandradeep-Pra/blob/output/github-contribution-grid-snake.svg)
-
-⚠️ This activates after one-time setup (I’ll explain below)
-
 ---
 
 # 👀 Profile Visitors
