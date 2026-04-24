@@ -1,31 +1,172 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://chandradeep-pra.github.io/portfolio/)
-<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif](https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif)">
+
 <h1 align="center">Hi 👋, I'm Chandradeep Prasad</h1>
-<h3 align="center">I'm from India 🇮🇳</h3>
-<h3 align="center">I like to think , solve problems and I am a Fullstack Developer</h3>
 
-- 🔭 I’m currently working on [Task Track - Tool to help PMs]([https://github.com/Chandradeep-Pra/Interview-Question-Generator](https://github.com/Chandradeep-Pra/task-train))
+<h3 align="center">
+  Frontend Developer • React / Next.js • UI Engineer • Fullstack Explorer
+</h3>
 
-- 🌱 I’m currently learning **NextJS , GenAI**
-
-- 👨‍💻 All of my projects are available at [Github Repos](https://github.com/Chandradeep-pra)
-
-- 💬 Ask me about **DSA , Javascript , ReactJs and Trekking**
-
-- 📫 How to reach me **chandradeepp611@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DLH63b2ySDVhcYaQveNIKdi90m3mE1mD/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chandradeep_pra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandradeep_pra" height="30" width="40" /></a>
-<a href="https://in.linkedin.com/in/chandradeepprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandradeepprasad1998" height="30" width="40" /></a>
+<p align="center">
+  I build clean, modern, animated, and user-focused web apps with React, Next.js, Zustand, Firebase, and beautiful custom UI systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:chandradeepp611@gmail.com">
+    <img src="https://img.shields.io/badge/Email-chandradeepp611%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://in.linkedin.com/in/chandradeepprasad">
+    <img src="https://img.shields.io/badge/LinkedIn-Chandradeep%20Prasad-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Chandradeep-Pra">
+    <img src="https://img.shields.io/badge/GitHub-Chandradeep--Pra-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandradeep-pra&show_icons=true&locale=en&layout=compact" alt="chandradee-pra" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandradeep-pra&show_icons=true&locale=en" alt="chandradee-pra" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandradeep-pra&" alt="chandradee-pra" /></p>
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="330" src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif" />
+
+- 🇮🇳 I’m from India  
+- 💻 I’m a frontend developer with fullstack experience  
+- 🎨 I love building creative, polished, and interactive UI experiences  
+- ⚛️ Currently working with **React, Next.js, Zustand, Firebase, Firestore, Tailwind CSS**
+- 🧠 Exploring **GenAI, product thinking, and smarter frontend workflows**
+- 🛠️ I enjoy converting rough ideas into real, usable products
+- 🏔️ Outside code, I like trekking, problem-solving, and learning new things
+
+---
+
+## 🔭 Currently Working On
+
+### 🧩 Task Track / Task Train  
+A tool to help PMs and teams manage tasks smarter.
+
+### 🌦️ Weather Dashboard  
+A live weather dashboard with:
+- Real-time weather data
+- Bento-style layout
+- Theme changes based on weather
+- Animated visual backgrounds
+- Components like UV, wind, humidity, map, air pollution, and forecast
+
+### 🚗 Washly  
+A car wash customer and captain-side app with modern dashboards and login flows.
+
+### 📦 ShipTrack  
+A client project for:
+- Orders
+- Inventory
+- Customer data
+- Payment status
+- WhatsApp order updates
+- Delivery scheduling
+
+### 🧠 Tic Tech Toe  
+A creative company portfolio website with animated, playful, and conversion-focused UI.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vite,redux,tailwind" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,firebase" />
+</p>
+
+### Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
+</p>
+
+---
+
+## 💼 Experience
+
+### Software Engineer — React Developer  
+**Nissan Digital India LLP**  
+`Sep 2022 – Feb 2024`
+
+### Freelance Developer  
+**Quoppo Ventures**  
+`Oct 2024 – Dec 2024`
+
+---
+
+## 🧩 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **Washly** | Car wash customer and staff management app | React, Firebase, Zustand |
+| **ShipTrack** | Order, inventory, and customer management platform | Next.js, Firestore, Zustand |
+| **Weather Dashboard** | Live weather dashboard with rich visual UI | React, Weather API, Tailwind |
+| **Tic Tech Toe** | Creative agency/portfolio website | React, Animations, UI Design |
+| **KryptoKat** | NFT marketplace project | React, Solidity, Ethereum |
+| **Code Cycle** | Stack Overflow-inspired platform | Next.js, MongoDB, React |
+| **Interview Helper** | Interview preparation helper | React, Python |
+
+---
+
+## 💬 Ask Me About
+
+- React.js
+- Next.js
+- JavaScript / TypeScript
+- Zustand
+- Firebase / Firestore
+- UI/UX implementation
+- Frontend architecture
+- DSA
+- Product-focused frontend development
+- Trekking 🏔️
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://twitter.com/chandradeep_pra">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://in.linkedin.com/in/chandradeepprasad">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:chandradeepp611@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chandradeep-Pra&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandradeep-Pra&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandradeep-Pra&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 My Developer Mindset
+
+> I don’t just build screens.  
+> I build experiences that feel smooth, useful, and alive.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chandradeep-Pra&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
