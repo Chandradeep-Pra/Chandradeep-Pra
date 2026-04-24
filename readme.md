@@ -1,199 +1,178 @@
-<h1 align="center">Hi 👋 I'm Chandradeep Prasad</h1>
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://chandradeep-pra.github.io/portfolio/)
 
-<h3 align="center">
-Full-Stack Software Engineer • React • Next.js • Node.js • Python • Workflow Systems • AI Platforms
-</h3>
+<img align="right" height="280" src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif"/>
 
-<p align="center">
-Engineer focused on building scalable SaaS systems, intelligent dashboards, workflow automation platforms, and high-quality frontend architecture.
+# Hi 👋 I'm Chandradeep Prasad
+
+### Full-Stack Engineer who loves building **beautiful + scalable + intelligent products**
+
+I design **modern SaaS platforms**, **workflow systems**, **AI-assisted tools**, and **pixel-perfect UI experiences** using React, Next.js, Node.js and Python.
+
+---
+
+## 🧠 What I Build
+
+✨ Workflow automation platforms  
+✨ AI-assisted learning systems  
+✨ enterprise dashboards  
+✨ GST billing engines  
+✨ async backend pipelines  
+✨ realtime product interfaces  
+
+I enjoy turning **complex business logic into clean user experiences**
+
+---
+
+## 🚀 Currently Building
+
+### 🧩 Task Track
+
+Smart PM workflow platform designed for structured task execution
+
+### 🌦️ Weather Dashboard
+
+Realtime weather system with
+
+• adaptive themes  
+• animated atmosphere layers  
+• bento grid layout  
+• smart component architecture  
+
+### 🚗 Washly
+
+Car-wash service platform with captain + customer flows
+
+### 📦 ShipTrack
+
+Workflow automation SaaS with
+
+• Zoho API sync  
+• GST billing engine  
+• deterministic state machine  
+• WhatsApp automation  
+• Celery async workers  
+
+---
+
+## ⚙️ Tech Stack I Use Daily
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" />
 </p>
 
----
+### Backend
 
-# 🚀 Professional Identity
-
-I design and ship production-grade web platforms across enterprise and startup environments.
-
-My work spans:
-
-• SaaS workflow automation  
-• AI-assisted learning platforms  
-• enterprise dashboards  
-• billing engines  
-• async background systems  
-• frontend architecture at scale  
-
-I enjoy turning complex business logic into reliable software systems.
-
----
-
-# 🧠 Core Engineering Strengths
-
-### Frontend Architecture
-
-React  
-Next.js  
-TypeScript  
-State architecture (Redux / Zustand)  
-Component-driven UI systems  
-
----
-
-### Backend Engineering
-
-Node.js  
-Express.js  
-Python (Django / Flask)
-
-REST APIs  
-Role-based access systems  
-Workflow engines  
-State machines  
-
----
-
-### Async Processing Systems
-
-Celery workers  
-event-driven pipelines  
-background automation systems  
-payment polling  
-notification pipelines  
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask" />
+</p>
 
 ### Databases
 
-PostgreSQL  
-MySQL  
-MongoDB  
-Firestore  
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
+</p>
 
-Relational modeling + NoSQL workflow design
+### Systems & Tools
 
----
-
-### DevOps & Engineering Tooling
-
-Docker  
-CI/CD pipelines  
-Postman  
-Git workflows  
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma" />
+</p>
 
 ---
 
-# 🏢 Experience Highlights
+## 🧩 Platform Work I'm Proud Of
 
-## NAVEX Global
+### ShipTrack
 
-Enterprise compliance platform engineering inside large-scale shared codebase environments.
-
-Worked across:
-
-• release workflows  
-• structured SDLC pipelines  
-• environment configuration systems  
-• QA-validated deployments  
-
----
-
-## Nissan Digital India LLP
-
-Built internal enterprise dashboards and vendor analytics platforms using:
-
-React  
-Node.js  
-Python  
-
-Implemented:
-
-• operational reporting APIs  
-• automation testing (Selenium + Cucumber)  
-• distributed agile engineering workflows  
-
----
-
-## Tic Tech Toe — Full-Stack Engineer
-
-Led architecture of SaaS web + mobile platforms.
-
-Stack:
-
-React  
-Next.js  
-Node.js  
-Python  
-PostgreSQL  
-MongoDB  
-Firestore  
-
-Delivered:
-
-• modular service architecture  
-• role-based access systems  
-• workflow-driven platforms  
-
----
-
-# 🧩 Selected Platform Work
-
-## ShipTrack — Workflow Automation SaaS
-
-Engineered:
-
-• deterministic order lifecycle state machine  
-• GST billing engine (GST vs IGST logic)  
-• Zoho Business API integration  
-• WhatsApp automation workflows  
-• Celery async processing pipeline  
-• Docker containerized services  
-
----
-
-## Urologics — AI Learning Platform
+Workflow automation SaaS platform
 
 Built:
 
-React Native student app  
-Next.js admin CMS  
-
-Developed:
-
-• AI mock viva system  
-• dynamic content publishing engine  
-• performance-aware quiz system  
-• analytics + leaderboard APIs  
-• subscription access architecture  
+✅ GST billing engine  
+✅ state-machine order lifecycle  
+✅ WhatsApp automation  
+✅ Celery async processing  
+✅ Docker services  
 
 ---
 
-# 🧪 Currently Exploring
+### Urologics (AI Learning Platform)
 
-Generative AI product workflows  
-AI-assisted UI systems  
-modern frontend architecture patterns  
-workflow automation platforms  
+Built:
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Chandradeep-Pra&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandradeep-Pra&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandradeep-Pra&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+📚 React Native student app  
+🧠 AI mock viva engine  
+📊 analytics APIs  
+🏆 leaderboard logic  
+🗂 dynamic CMS system  
 
 ---
 
-# 📫 Contact
+### Nissan Digital India
 
-Email: chandradeepp611@gmail.com  
-LinkedIn: linkedin.com/in/chandradeepprasad  
-Portfolio: chandradeep-pra.github.io/portfolio
+Worked on enterprise internal dashboards
+
+React  
+Node.js  
+Python  
+automation testing pipelines  
+
+---
+
+### NAVEX Global
+
+Contributing to enterprise compliance platforms inside structured SDLC release environments
+
+---
+
+## 🧪 Currently Exploring
+
+🤖 GenAI product workflows  
+⚡ intelligent UI systems  
+🧱 scalable frontend architecture  
+📡 event-driven backend workflows  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Chandradeep-Pra&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandradeep-Pra&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandradeep-Pra&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p>
+
+<a href="mailto:chandradeepp611@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/chandradeepprasad">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://twitter.com/chandradeep_pra">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+</p>
+
+---
+
+## ✨ Philosophy
+
+> I don’t just build screens  
+> I design systems that users enjoy using
